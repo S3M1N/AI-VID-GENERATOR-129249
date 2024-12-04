@@ -1,0 +1,383 @@
+{
+  "task": "transcribe",
+  "language": "english",
+  "duration": 31.770000457763672,
+  "text": "Sushengliang in China combines a capsule hostel with a bookstore in a traditional farmhouse. De Bedstij Hotel in Amsterdam offers cozy sleeping nooks inspired by 17th century Dutch box beds. Riesel Postel Tokyo Asakusa in Japan provides a posh capsule experience with Edo-era styling. These hotels blend tradition with modernity, offering unique and comfortable stays. Whether you're looking for adventure, relaxation, or a cultural experience, these tiny hotel rooms have something special to offer.",
+  "words": [
+    {
+      "word": "Sushengliang",
+      "start": 0.019999999552965164,
+      "end": 0.7799999713897705
+    },
+    {
+      "word": "in",
+      "start": 0.7799999713897705,
+      "end": 0.9599999785423279
+    },
+    {
+      "word": "China",
+      "start": 0.9599999785423279,
+      "end": 1.2400000095367432
+    },
+    {
+      "word": "combines",
+      "start": 1.2400000095367432,
+      "end": 1.7000000476837158
+    },
+    {
+      "word": "a",
+      "start": 1.7000000476837158,
+      "end": 1.9199999570846558
+    },
+    {
+      "word": "capsule",
+      "start": 1.9199999570846558,
+      "end": 2.259999990463257
+    },
+    {
+      "word": "hostel",
+      "start": 2.259999990463257,
+      "end": 2.5399999618530273
+    },
+    {
+      "word": "with",
+      "start": 2.5399999618530273,
+      "end": 2.9000000953674316
+    },
+    {
+      "word": "a",
+      "start": 2.9000000953674316,
+      "end": 3.119999885559082
+    },
+    {
+      "word": "bookstore",
+      "start": 3.119999885559082,
+      "end": 3.440000057220459
+    },
+    {
+      "word": "in",
+      "start": 3.440000057220459,
+      "end": 3.700000047683716
+    },
+    {
+      "word": "a",
+      "start": 3.700000047683716,
+      "end": 3.859999895095825
+    },
+    {
+      "word": "traditional",
+      "start": 3.859999895095825,
+      "end": 4.260000228881836
+    },
+    {
+      "word": "farmhouse",
+      "start": 4.260000228881836,
+      "end": 5.360000133514404
+    },
+    {
+      "word": "De",
+      "start": 5.480000019073486,
+      "end": 5.599999904632568
+    },
+    {
+      "word": "Bedstij",
+      "start": 5.599999904632568,
+      "end": 5.960000038146973
+    },
+    {
+      "word": "Hotel",
+      "start": 5.960000038146973,
+      "end": 6.400000095367432
+    },
+    {
+      "word": "in",
+      "start": 6.400000095367432,
+      "end": 6.599999904632568
+    },
+    {
+      "word": "Amsterdam",
+      "start": 6.599999904632568,
+      "end": 7.119999885559082
+    },
+    {
+      "word": "offers",
+      "start": 7.119999885559082,
+      "end": 7.599999904632568
+    },
+    {
+      "word": "cozy",
+      "start": 7.599999904632568,
+      "end": 8.079999923706055
+    },
+    {
+      "word": "sleeping",
+      "start": 8.079999923706055,
+      "end": 8.479999542236328
+    },
+    {
+      "word": "nooks",
+      "start": 8.479999542236328,
+      "end": 8.819999694824219
+    },
+    {
+      "word": "inspired",
+      "start": 8.819999694824219,
+      "end": 9.479999542236328
+    },
+    {
+      "word": "by",
+      "start": 9.479999542236328,
+      "end": 9.9399995803833
+    },
+    {
+      "word": "17th",
+      "start": 9.9399995803833,
+      "end": 10.5600004196167
+    },
+    {
+      "word": "century",
+      "start": 10.5600004196167,
+      "end": 10.760000228881836
+    },
+    {
+      "word": "Dutch",
+      "start": 10.760000228881836,
+      "end": 11.079999923706055
+    },
+    {
+      "word": "box",
+      "start": 11.079999923706055,
+      "end": 11.460000038146973
+    },
+    {
+      "word": "beds",
+      "start": 11.460000038146973,
+      "end": 11.84000015258789
+    },
+    {
+      "word": "Riesel",
+      "start": 13.0,
+      "end": 13.199999809265137
+    },
+    {
+      "word": "Postel",
+      "start": 13.199999809265137,
+      "end": 13.680000305175781
+    },
+    {
+      "word": "Tokyo",
+      "start": 13.680000305175781,
+      "end": 14.260000228881836
+    },
+    {
+      "word": "Asakusa",
+      "start": 14.260000228881836,
+      "end": 14.800000190734863
+    },
+    {
+      "word": "in",
+      "start": 14.800000190734863,
+      "end": 15.079999923706055
+    },
+    {
+      "word": "Japan",
+      "start": 15.079999923706055,
+      "end": 15.420000076293945
+    },
+    {
+      "word": "provides",
+      "start": 15.420000076293945,
+      "end": 15.84000015258789
+    },
+    {
+      "word": "a",
+      "start": 15.84000015258789,
+      "end": 16.299999237060547
+    },
+    {
+      "word": "posh",
+      "start": 16.299999237060547,
+      "end": 16.420000076293945
+    },
+    {
+      "word": "capsule",
+      "start": 16.420000076293945,
+      "end": 16.780000686645508
+    },
+    {
+      "word": "experience",
+      "start": 16.780000686645508,
+      "end": 17.3799991607666
+    },
+    {
+      "word": "with",
+      "start": 17.3799991607666,
+      "end": 17.719999313354492
+    },
+    {
+      "word": "Edo",
+      "start": 17.719999313354492,
+      "end": 17.940000534057617
+    },
+    {
+      "word": "era",
+      "start": 17.940000534057617,
+      "end": 18.280000686645508
+    },
+    {
+      "word": "styling",
+      "start": 18.280000686645508,
+      "end": 18.68000030517578
+    },
+    {
+      "word": "These",
+      "start": 19.440000534057617,
+      "end": 19.559999465942383
+    },
+    {
+      "word": "hotels",
+      "start": 19.559999465942383,
+      "end": 19.940000534057617
+    },
+    {
+      "word": "blend",
+      "start": 19.940000534057617,
+      "end": 20.239999771118164
+    },
+    {
+      "word": "tradition",
+      "start": 20.239999771118164,
+      "end": 20.68000030517578
+    },
+    {
+      "word": "with",
+      "start": 20.68000030517578,
+      "end": 21.0
+    },
+    {
+      "word": "modernity",
+      "start": 21.0,
+      "end": 21.559999465942383
+    },
+    {
+      "word": "offering",
+      "start": 22.0,
+      "end": 22.0
+    },
+    {
+      "word": "unique",
+      "start": 22.0,
+      "end": 22.5
+    },
+    {
+      "word": "and",
+      "start": 22.5,
+      "end": 23.440000534057617
+    },
+    {
+      "word": "comfortable",
+      "start": 23.440000534057617,
+      "end": 23.440000534057617
+    },
+    {
+      "word": "stays",
+      "start": 23.440000534057617,
+      "end": 23.81999969482422
+    },
+    {
+      "word": "Whether",
+      "start": 24.579999923706055,
+      "end": 24.6200008392334
+    },
+    {
+      "word": "you're",
+      "start": 24.6200008392334,
+      "end": 24.899999618530273
+    },
+    {
+      "word": "looking",
+      "start": 24.899999618530273,
+      "end": 25.0
+    },
+    {
+      "word": "for",
+      "start": 25.0,
+      "end": 25.760000228881836
+    },
+    {
+      "word": "adventure",
+      "start": 25.760000228881836,
+      "end": 25.760000228881836
+    },
+    {
+      "word": "relaxation",
+      "start": 26.200000762939453,
+      "end": 26.479999542236328
+    },
+    {
+      "word": "or",
+      "start": 26.479999542236328,
+      "end": 26.799999237060547
+    },
+    {
+      "word": "a",
+      "start": 26.799999237060547,
+      "end": 27.280000686645508
+    },
+    {
+      "word": "cultural",
+      "start": 27.280000686645508,
+      "end": 27.280000686645508
+    },
+    {
+      "word": "experience",
+      "start": 27.280000686645508,
+      "end": 27.899999618530273
+    },
+    {
+      "word": "these",
+      "start": 28.34000015258789,
+      "end": 28.559999465942383
+    },
+    {
+      "word": "tiny",
+      "start": 28.559999465942383,
+      "end": 28.959999084472656
+    },
+    {
+      "word": "hotel",
+      "start": 28.959999084472656,
+      "end": 29.440000534057617
+    },
+    {
+      "word": "rooms",
+      "start": 29.440000534057617,
+      "end": 29.799999237060547
+    },
+    {
+      "word": "have",
+      "start": 29.799999237060547,
+      "end": 30.040000915527344
+    },
+    {
+      "word": "something",
+      "start": 30.040000915527344,
+      "end": 30.5
+    },
+    {
+      "word": "special",
+      "start": 30.5,
+      "end": 30.959999084472656
+    },
+    {
+      "word": "to",
+      "start": 30.959999084472656,
+      "end": 31.239999771118164
+    },
+    {
+      "word": "offer",
+      "start": 31.239999771118164,
+      "end": 31.479999542236328
+    }
+  ]
+}

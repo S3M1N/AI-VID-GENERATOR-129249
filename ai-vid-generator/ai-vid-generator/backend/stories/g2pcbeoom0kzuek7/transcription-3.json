@@ -1,0 +1,433 @@
+{
+  "task": "transcribe",
+  "language": "english",
+  "duration": 36.93000030517578,
+  "text": "In Maui, after the 2023 wildfires, officials prioritized local needs before reopening to tourists. Clear communication and a locals-first approach helped balance recovery with tourism. Visitors were encouraged to support the community respectfully, avoiding devastated areas. The outpouring of global support was heartwarming. When visiting post-disaster areas, always stay informed, buy local, and be respectful. Tourism can aid recovery, but it must be balanced with the needs of the affected community. Prioritize people over economic activity to ensure a respectful and beneficial visit.",
+  "words": [
+    {
+      "word": "In",
+      "start": 0.0,
+      "end": 0.23999999463558197
+    },
+    {
+      "word": "Maui",
+      "start": 0.23999999463558197,
+      "end": 0.5400000214576721
+    },
+    {
+      "word": "after",
+      "start": 0.8600000143051147,
+      "end": 0.9399999976158142
+    },
+    {
+      "word": "the",
+      "start": 0.9399999976158142,
+      "end": 1.1200000047683716
+    },
+    {
+      "word": "2023",
+      "start": 1.1200000047683716,
+      "end": 1.8799999952316284
+    },
+    {
+      "word": "wildfires",
+      "start": 1.8799999952316284,
+      "end": 2.5799999237060547
+    },
+    {
+      "word": "officials",
+      "start": 3.059999942779541,
+      "end": 3.200000047683716
+    },
+    {
+      "word": "prioritized",
+      "start": 3.200000047683716,
+      "end": 3.940000057220459
+    },
+    {
+      "word": "local",
+      "start": 3.940000057220459,
+      "end": 4.300000190734863
+    },
+    {
+      "word": "needs",
+      "start": 4.300000190734863,
+      "end": 4.579999923706055
+    },
+    {
+      "word": "before",
+      "start": 4.579999923706055,
+      "end": 4.940000057220459
+    },
+    {
+      "word": "reopening",
+      "start": 4.940000057220459,
+      "end": 5.400000095367432
+    },
+    {
+      "word": "to",
+      "start": 5.400000095367432,
+      "end": 5.71999979019165
+    },
+    {
+      "word": "tourists",
+      "start": 5.71999979019165,
+      "end": 6.21999979019165
+    },
+    {
+      "word": "Clear",
+      "start": 6.739999771118164,
+      "end": 6.78000020980835
+    },
+    {
+      "word": "communication",
+      "start": 6.78000020980835,
+      "end": 7.380000114440918
+    },
+    {
+      "word": "and",
+      "start": 7.380000114440918,
+      "end": 7.659999847412109
+    },
+    {
+      "word": "a",
+      "start": 7.659999847412109,
+      "end": 7.920000076293945
+    },
+    {
+      "word": "locals",
+      "start": 7.920000076293945,
+      "end": 8.119999885559082
+    },
+    {
+      "word": "first",
+      "start": 8.119999885559082,
+      "end": 8.460000038146973
+    },
+    {
+      "word": "approach",
+      "start": 8.460000038146973,
+      "end": 8.899999618530273
+    },
+    {
+      "word": "helped",
+      "start": 8.899999618530273,
+      "end": 9.239999771118164
+    },
+    {
+      "word": "balance",
+      "start": 9.239999771118164,
+      "end": 9.579999923706055
+    },
+    {
+      "word": "recovery",
+      "start": 9.579999923706055,
+      "end": 10.020000457763672
+    },
+    {
+      "word": "with",
+      "start": 10.020000457763672,
+      "end": 10.34000015258789
+    },
+    {
+      "word": "tourism",
+      "start": 10.34000015258789,
+      "end": 10.720000267028809
+    },
+    {
+      "word": "Visitors",
+      "start": 12.0,
+      "end": 12.0
+    },
+    {
+      "word": "were",
+      "start": 12.0,
+      "end": 12.319999694824219
+    },
+    {
+      "word": "encouraged",
+      "start": 12.319999694824219,
+      "end": 12.640000343322754
+    },
+    {
+      "word": "to",
+      "start": 12.640000343322754,
+      "end": 13.079999923706055
+    },
+    {
+      "word": "support",
+      "start": 13.079999923706055,
+      "end": 13.199999809265137
+    },
+    {
+      "word": "the",
+      "start": 13.199999809265137,
+      "end": 13.699999809265137
+    },
+    {
+      "word": "community",
+      "start": 13.699999809265137,
+      "end": 13.699999809265137
+    },
+    {
+      "word": "respectfully",
+      "start": 13.699999809265137,
+      "end": 14.300000190734863
+    },
+    {
+      "word": "avoiding",
+      "start": 14.859999656677246,
+      "end": 14.880000114440918
+    },
+    {
+      "word": "devastated",
+      "start": 14.880000114440918,
+      "end": 15.460000038146973
+    },
+    {
+      "word": "areas",
+      "start": 15.460000038146973,
+      "end": 15.920000076293945
+    },
+    {
+      "word": "The",
+      "start": 16.959999084472656,
+      "end": 17.040000915527344
+    },
+    {
+      "word": "outpouring",
+      "start": 17.040000915527344,
+      "end": 17.34000015258789
+    },
+    {
+      "word": "of",
+      "start": 17.34000015258789,
+      "end": 17.6200008392334
+    },
+    {
+      "word": "global",
+      "start": 17.6200008392334,
+      "end": 17.8799991607666
+    },
+    {
+      "word": "support",
+      "start": 17.8799991607666,
+      "end": 18.219999313354492
+    },
+    {
+      "word": "was",
+      "start": 18.219999313354492,
+      "end": 18.479999542236328
+    },
+    {
+      "word": "heartwarming",
+      "start": 18.479999542236328,
+      "end": 18.959999084472656
+    },
+    {
+      "word": "When",
+      "start": 19.68000030517578,
+      "end": 19.760000228881836
+    },
+    {
+      "word": "visiting",
+      "start": 19.760000228881836,
+      "end": 20.059999465942383
+    },
+    {
+      "word": "post",
+      "start": 20.059999465942383,
+      "end": 20.479999542236328
+    },
+    {
+      "word": "disaster",
+      "start": 20.479999542236328,
+      "end": 20.81999969482422
+    },
+    {
+      "word": "areas",
+      "start": 20.81999969482422,
+      "end": 21.31999969482422
+    },
+    {
+      "word": "always",
+      "start": 21.68000030517578,
+      "end": 21.84000015258789
+    },
+    {
+      "word": "stay",
+      "start": 21.84000015258789,
+      "end": 22.15999984741211
+    },
+    {
+      "word": "informed",
+      "start": 22.15999984741211,
+      "end": 22.559999465942383
+    },
+    {
+      "word": "buy",
+      "start": 23.0,
+      "end": 23.100000381469727
+    },
+    {
+      "word": "local",
+      "start": 23.100000381469727,
+      "end": 23.440000534057617
+    },
+    {
+      "word": "and",
+      "start": 23.84000015258789,
+      "end": 24.079999923706055
+    },
+    {
+      "word": "be",
+      "start": 24.079999923706055,
+      "end": 24.239999771118164
+    },
+    {
+      "word": "respectful",
+      "start": 24.239999771118164,
+      "end": 24.68000030517578
+    },
+    {
+      "word": "Tourism",
+      "start": 25.780000686645508,
+      "end": 26.100000381469727
+    },
+    {
+      "word": "can",
+      "start": 26.100000381469727,
+      "end": 26.420000076293945
+    },
+    {
+      "word": "aid",
+      "start": 26.420000076293945,
+      "end": 26.600000381469727
+    },
+    {
+      "word": "recovery",
+      "start": 26.600000381469727,
+      "end": 27.100000381469727
+    },
+    {
+      "word": "but",
+      "start": 27.440000534057617,
+      "end": 27.739999771118164
+    },
+    {
+      "word": "it",
+      "start": 27.739999771118164,
+      "end": 27.959999084472656
+    },
+    {
+      "word": "must",
+      "start": 27.959999084472656,
+      "end": 28.15999984741211
+    },
+    {
+      "word": "be",
+      "start": 28.15999984741211,
+      "end": 28.540000915527344
+    },
+    {
+      "word": "balanced",
+      "start": 28.540000915527344,
+      "end": 28.739999771118164
+    },
+    {
+      "word": "with",
+      "start": 28.739999771118164,
+      "end": 28.959999084472656
+    },
+    {
+      "word": "the",
+      "start": 28.959999084472656,
+      "end": 29.15999984741211
+    },
+    {
+      "word": "needs",
+      "start": 29.15999984741211,
+      "end": 29.399999618530273
+    },
+    {
+      "word": "of",
+      "start": 29.399999618530273,
+      "end": 29.600000381469727
+    },
+    {
+      "word": "the",
+      "start": 29.600000381469727,
+      "end": 29.719999313354492
+    },
+    {
+      "word": "affected",
+      "start": 29.719999313354492,
+      "end": 30.059999465942383
+    },
+    {
+      "word": "community",
+      "start": 30.059999465942383,
+      "end": 30.6200008392334
+    },
+    {
+      "word": "Prioritize",
+      "start": 31.760000228881836,
+      "end": 32.060001373291016
+    },
+    {
+      "word": "people",
+      "start": 32.060001373291016,
+      "end": 32.41999816894531
+    },
+    {
+      "word": "over",
+      "start": 32.41999816894531,
+      "end": 32.70000076293945
+    },
+    {
+      "word": "economic",
+      "start": 32.70000076293945,
+      "end": 33.2400016784668
+    },
+    {
+      "word": "activity",
+      "start": 33.2400016784668,
+      "end": 33.7599983215332
+    },
+    {
+      "word": "to",
+      "start": 33.7599983215332,
+      "end": 34.279998779296875
+    },
+    {
+      "word": "ensure",
+      "start": 34.279998779296875,
+      "end": 34.5
+    },
+    {
+      "word": "a",
+      "start": 34.5,
+      "end": 34.880001068115234
+    },
+    {
+      "word": "respectful",
+      "start": 34.880001068115234,
+      "end": 35.29999923706055
+    },
+    {
+      "word": "and",
+      "start": 35.29999923706055,
+      "end": 35.720001220703125
+    },
+    {
+      "word": "beneficial",
+      "start": 35.720001220703125,
+      "end": 36.119998931884766
+    },
+    {
+      "word": "visit",
+      "start": 36.119998931884766,
+      "end": 36.5
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "task": "transcribe",
+  "language": "english",
+  "duration": 7.650000095367432,
+  "text": "The decline in Dengote's wealth reflects Nigeria's economic challenges, including high inflation and currency devaluation.",
+  "words": [
+    {
+      "word": "The",
+      "start": 0.0,
+      "end": 0.2800000011920929
+    },
+    {
+      "word": "decline",
+      "start": 0.2800000011920929,
+      "end": 0.6000000238418579
+    },
+    {
+      "word": "in",
+      "start": 0.6000000238418579,
+      "end": 0.8399999737739563
+    },
+    {
+      "word": "Dengote's",
+      "start": 0.8399999737739563,
+      "end": 1.7200000286102295
+    },
+    {
+      "word": "wealth",
+      "start": 1.7200000286102295,
+      "end": 1.7200000286102295
+    },
+    {
+      "word": "reflects",
+      "start": 1.7200000286102295,
+      "end": 2.2200000286102295
+    },
+    {
+      "word": "Nigeria's",
+      "start": 2.2200000286102295,
+      "end": 3.0199999809265137
+    },
+    {
+      "word": "economic",
+      "start": 3.0199999809265137,
+      "end": 3.4000000953674316
+    },
+    {
+      "word": "challenges",
+      "start": 3.4000000953674316,
+      "end": 3.9600000381469727
+    },
+    {
+      "word": "including",
+      "start": 4.360000133514404,
+      "end": 4.659999847412109
+    },
+    {
+      "word": "high",
+      "start": 4.659999847412109,
+      "end": 5.0
+    },
+    {
+      "word": "inflation",
+      "start": 5.0,
+      "end": 5.440000057220459
+    },
+    {
+      "word": "and",
+      "start": 5.440000057220459,
+      "end": 5.940000057220459
+    },
+    {
+      "word": "currency",
+      "start": 5.940000057220459,
+      "end": 6.300000190734863
+    },
+    {
+      "word": "devaluation",
+      "start": 6.300000190734863,
+      "end": 7.059999942779541
+    }
+  ]
+}

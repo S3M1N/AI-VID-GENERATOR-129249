@@ -1,0 +1,108 @@
+{
+  "task": "transcribe",
+  "language": "english",
+  "duration": 8.65999984741211,
+  "text": "Discover eight extraordinary tiny hotel rooms around the world, from Colombia's upcycled sewer pipes to transparent pods on Peru's cliffs.",
+  "words": [
+    {
+      "word": "Discover",
+      "start": 0.0,
+      "end": 0.4399999976158142
+    },
+    {
+      "word": "eight",
+      "start": 0.4399999976158142,
+      "end": 0.8399999737739563
+    },
+    {
+      "word": "extraordinary",
+      "start": 0.8399999737739563,
+      "end": 1.4199999570846558
+    },
+    {
+      "word": "tiny",
+      "start": 1.4199999570846558,
+      "end": 1.899999976158142
+    },
+    {
+      "word": "hotel",
+      "start": 1.899999976158142,
+      "end": 2.259999990463257
+    },
+    {
+      "word": "rooms",
+      "start": 2.259999990463257,
+      "end": 2.4800000190734863
+    },
+    {
+      "word": "around",
+      "start": 2.4800000190734863,
+      "end": 2.799999952316284
+    },
+    {
+      "word": "the",
+      "start": 2.799999952316284,
+      "end": 2.9800000190734863
+    },
+    {
+      "word": "world",
+      "start": 2.9800000190734863,
+      "end": 3.240000009536743
+    },
+    {
+      "word": "from",
+      "start": 3.619999885559082,
+      "end": 3.740000009536743
+    },
+    {
+      "word": "Colombia's",
+      "start": 3.740000009536743,
+      "end": 4.400000095367432
+    },
+    {
+      "word": "upcycled",
+      "start": 4.400000095367432,
+      "end": 4.679999828338623
+    },
+    {
+      "word": "sewer",
+      "start": 4.679999828338623,
+      "end": 5.039999961853027
+    },
+    {
+      "word": "pipes",
+      "start": 5.039999961853027,
+      "end": 5.320000171661377
+    },
+    {
+      "word": "to",
+      "start": 5.320000171661377,
+      "end": 5.619999885559082
+    },
+    {
+      "word": "transparent",
+      "start": 5.619999885559082,
+      "end": 6.099999904632568
+    },
+    {
+      "word": "pods",
+      "start": 6.099999904632568,
+      "end": 6.5
+    },
+    {
+      "word": "on",
+      "start": 6.5,
+      "end": 6.860000133514404
+    },
+    {
+      "word": "Peru's",
+      "start": 6.860000133514404,
+      "end": 7.579999923706055
+    },
+    {
+      "word": "cliffs",
+      "start": 7.579999923706055,
+      "end": 7.579999923706055
+    }
+  ]
+}

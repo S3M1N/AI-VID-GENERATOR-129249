@@ -1,0 +1,168 @@
+{
+  "task": "transcribe",
+  "language": "english",
+  "duration": 15.15999984741211,
+  "text": "Epic's whimsical campus includes themed office buildings, underground tunnels, and a monthly staff meeting in an underground auditorium. Despite its playful environment, Epic faces criticism for its handling of patient-data interoperability.",
+  "words": [
+    {
+      "word": "Epic's",
+      "start": 0.0,
+      "end": 0.46000000834465027
+    },
+    {
+      "word": "whimsical",
+      "start": 0.46000000834465027,
+      "end": 0.7799999713897705
+    },
+    {
+      "word": "campus",
+      "start": 0.7799999713897705,
+      "end": 1.2000000476837158
+    },
+    {
+      "word": "includes",
+      "start": 1.2000000476837158,
+      "end": 1.6200000047683716
+    },
+    {
+      "word": "themed",
+      "start": 1.6200000047683716,
+      "end": 1.9600000381469727
+    },
+    {
+      "word": "office",
+      "start": 1.9600000381469727,
+      "end": 2.319999933242798
+    },
+    {
+      "word": "buildings",
+      "start": 2.319999933242798,
+      "end": 2.819999933242798
+    },
+    {
+      "word": "underground",
+      "start": 3.319999933242798,
+      "end": 3.5399999618530273
+    },
+    {
+      "word": "tunnels",
+      "start": 3.5399999618530273,
+      "end": 3.9200000762939453
+    },
+    {
+      "word": "and",
+      "start": 4.380000114440918,
+      "end": 4.420000076293945
+    },
+    {
+      "word": "a",
+      "start": 4.420000076293945,
+      "end": 4.860000133514404
+    },
+    {
+      "word": "monthly",
+      "start": 4.860000133514404,
+      "end": 4.860000133514404
+    },
+    {
+      "word": "staff",
+      "start": 4.860000133514404,
+      "end": 5.239999771118164
+    },
+    {
+      "word": "meeting",
+      "start": 5.239999771118164,
+      "end": 5.5
+    },
+    {
+      "word": "in",
+      "start": 5.5,
+      "end": 5.760000228881836
+    },
+    {
+      "word": "an",
+      "start": 5.760000228881836,
+      "end": 6.059999942779541
+    },
+    {
+      "word": "underground",
+      "start": 6.059999942779541,
+      "end": 6.380000114440918
+    },
+    {
+      "word": "auditorium",
+      "start": 6.380000114440918,
+      "end": 7.659999847412109
+    },
+    {
+      "word": "Despite",
+      "start": 8.0,
+      "end": 8.239999771118164
+    },
+    {
+      "word": "its",
+      "start": 8.239999771118164,
+      "end": 8.640000343322754
+    },
+    {
+      "word": "playful",
+      "start": 8.640000343322754,
+      "end": 9.0
+    },
+    {
+      "word": "environment",
+      "start": 9.0,
+      "end": 9.600000381469727
+    },
+    {
+      "word": "Epic",
+      "start": 10.140000343322754,
+      "end": 10.140000343322754
+    },
+    {
+      "word": "faces",
+      "start": 10.140000343322754,
+      "end": 10.5600004196167
+    },
+    {
+      "word": "criticism",
+      "start": 10.5600004196167,
+      "end": 11.039999961853027
+    },
+    {
+      "word": "for",
+      "start": 11.039999961853027,
+      "end": 11.380000114440918
+    },
+    {
+      "word": "its",
+      "start": 11.380000114440918,
+      "end": 11.739999771118164
+    },
+    {
+      "word": "handling",
+      "start": 11.739999771118164,
+      "end": 11.880000114440918
+    },
+    {
+      "word": "of",
+      "start": 11.880000114440918,
+      "end": 12.15999984741211
+    },
+    {
+      "word": "patient",
+      "start": 12.15999984741211,
+      "end": 12.5
+    },
+    {
+      "word": "data",
+      "start": 12.5,
+      "end": 12.800000190734863
+    },
+    {
+      "word": "interoperability",
+      "start": 12.800000190734863,
+      "end": 13.720000267028809
+    }
+  ]
+}

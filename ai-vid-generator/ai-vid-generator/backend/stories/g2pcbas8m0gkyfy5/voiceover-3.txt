@@ -1,0 +1,383 @@
+{
+  "task": "transcribe",
+  "language": "english",
+  "duration": 33.0,
+  "text": "Viché, a cultural treasure of Colombia, is gaining popularity as bartenders smuggle it internationally. This traditional liquor, made from sugar cane, is integral to Afro-Colombian rituals and celebrations. Despite its rich heritage, Viché faces challenges from legal restrictions and cultural appropriation. Recent laws aim to protect its authenticity, but regulatory hurdles persist. As new brands emerge, the fight to preserve Viché's cultural significance continues, ensuring that this ancestral drink remains true to its roots.",
+  "words": [
+    {
+      "word": "Viché",
+      "start": 0.0,
+      "end": 0.3799999952316284
+    },
+    {
+      "word": "a",
+      "start": 0.6600000262260437,
+      "end": 0.9200000166893005
+    },
+    {
+      "word": "cultural",
+      "start": 0.9200000166893005,
+      "end": 1.2000000476837158
+    },
+    {
+      "word": "treasure",
+      "start": 1.2000000476837158,
+      "end": 1.440000057220459
+    },
+    {
+      "word": "of",
+      "start": 1.440000057220459,
+      "end": 2.059999942779541
+    },
+    {
+      "word": "Colombia",
+      "start": 2.059999942779541,
+      "end": 2.059999942779541
+    },
+    {
+      "word": "is",
+      "start": 2.5199999809265137,
+      "end": 2.5999999046325684
+    },
+    {
+      "word": "gaining",
+      "start": 2.5999999046325684,
+      "end": 2.7799999713897705
+    },
+    {
+      "word": "popularity",
+      "start": 2.7799999713897705,
+      "end": 3.4800000190734863
+    },
+    {
+      "word": "as",
+      "start": 3.4800000190734863,
+      "end": 3.859999895095825
+    },
+    {
+      "word": "bartenders",
+      "start": 3.859999895095825,
+      "end": 4.400000095367432
+    },
+    {
+      "word": "smuggle",
+      "start": 4.400000095367432,
+      "end": 4.860000133514404
+    },
+    {
+      "word": "it",
+      "start": 4.860000133514404,
+      "end": 5.179999828338623
+    },
+    {
+      "word": "internationally",
+      "start": 5.179999828338623,
+      "end": 5.840000152587891
+    },
+    {
+      "word": "This",
+      "start": 6.639999866485596,
+      "end": 6.679999828338623
+    },
+    {
+      "word": "traditional",
+      "start": 6.679999828338623,
+      "end": 7.179999828338623
+    },
+    {
+      "word": "liquor",
+      "start": 7.179999828338623,
+      "end": 7.5
+    },
+    {
+      "word": "made",
+      "start": 7.880000114440918,
+      "end": 7.920000076293945
+    },
+    {
+      "word": "from",
+      "start": 7.920000076293945,
+      "end": 8.220000267028809
+    },
+    {
+      "word": "sugar",
+      "start": 8.220000267028809,
+      "end": 8.5600004196167
+    },
+    {
+      "word": "cane",
+      "start": 8.5600004196167,
+      "end": 8.760000228881836
+    },
+    {
+      "word": "is",
+      "start": 9.100000381469727,
+      "end": 9.260000228881836
+    },
+    {
+      "word": "integral",
+      "start": 9.260000228881836,
+      "end": 9.760000228881836
+    },
+    {
+      "word": "to",
+      "start": 9.760000228881836,
+      "end": 10.220000267028809
+    },
+    {
+      "word": "Afro",
+      "start": 10.220000267028809,
+      "end": 10.819999694824219
+    },
+    {
+      "word": "Colombian",
+      "start": 10.819999694824219,
+      "end": 10.979999542236328
+    },
+    {
+      "word": "rituals",
+      "start": 10.979999542236328,
+      "end": 11.460000038146973
+    },
+    {
+      "word": "and",
+      "start": 11.460000038146973,
+      "end": 12.079999923706055
+    },
+    {
+      "word": "celebrations",
+      "start": 12.079999923706055,
+      "end": 12.65999984741211
+    },
+    {
+      "word": "Despite",
+      "start": 13.260000228881836,
+      "end": 13.520000457763672
+    },
+    {
+      "word": "its",
+      "start": 13.520000457763672,
+      "end": 13.800000190734863
+    },
+    {
+      "word": "rich",
+      "start": 13.800000190734863,
+      "end": 14.100000381469727
+    },
+    {
+      "word": "heritage",
+      "start": 14.100000381469727,
+      "end": 14.520000457763672
+    },
+    {
+      "word": "Viché",
+      "start": 15.039999961853027,
+      "end": 15.140000343322754
+    },
+    {
+      "word": "faces",
+      "start": 15.140000343322754,
+      "end": 15.520000457763672
+    },
+    {
+      "word": "challenges",
+      "start": 15.520000457763672,
+      "end": 16.020000457763672
+    },
+    {
+      "word": "from",
+      "start": 16.020000457763672,
+      "end": 16.360000610351562
+    },
+    {
+      "word": "legal",
+      "start": 16.360000610351562,
+      "end": 16.6200008392334
+    },
+    {
+      "word": "restrictions",
+      "start": 16.6200008392334,
+      "end": 17.079999923706055
+    },
+    {
+      "word": "and",
+      "start": 17.079999923706055,
+      "end": 17.520000457763672
+    },
+    {
+      "word": "cultural",
+      "start": 17.520000457763672,
+      "end": 17.81999969482422
+    },
+    {
+      "word": "appropriation",
+      "start": 17.81999969482422,
+      "end": 18.6200008392334
+    },
+    {
+      "word": "Recent",
+      "start": 19.31999969482422,
+      "end": 19.540000915527344
+    },
+    {
+      "word": "laws",
+      "start": 19.540000915527344,
+      "end": 19.860000610351562
+    },
+    {
+      "word": "aim",
+      "start": 19.860000610351562,
+      "end": 20.18000030517578
+    },
+    {
+      "word": "to",
+      "start": 20.18000030517578,
+      "end": 20.739999771118164
+    },
+    {
+      "word": "protect",
+      "start": 20.739999771118164,
+      "end": 20.739999771118164
+    },
+    {
+      "word": "its",
+      "start": 20.739999771118164,
+      "end": 21.0
+    },
+    {
+      "word": "authenticity",
+      "start": 21.0,
+      "end": 21.540000915527344
+    },
+    {
+      "word": "but",
+      "start": 22.1200008392334,
+      "end": 22.34000015258789
+    },
+    {
+      "word": "regulatory",
+      "start": 22.34000015258789,
+      "end": 22.979999542236328
+    },
+    {
+      "word": "hurdles",
+      "start": 22.979999542236328,
+      "end": 23.31999969482422
+    },
+    {
+      "word": "persist",
+      "start": 23.31999969482422,
+      "end": 23.940000534057617
+    },
+    {
+      "word": "As",
+      "start": 24.440000534057617,
+      "end": 24.639999389648438
+    },
+    {
+      "word": "new",
+      "start": 24.639999389648438,
+      "end": 24.920000076293945
+    },
+    {
+      "word": "brands",
+      "start": 24.920000076293945,
+      "end": 25.100000381469727
+    },
+    {
+      "word": "emerge",
+      "start": 25.100000381469727,
+      "end": 25.540000915527344
+    },
+    {
+      "word": "the",
+      "start": 25.780000686645508,
+      "end": 25.959999084472656
+    },
+    {
+      "word": "fight",
+      "start": 25.959999084472656,
+      "end": 26.079999923706055
+    },
+    {
+      "word": "to",
+      "start": 26.079999923706055,
+      "end": 26.639999389648438
+    },
+    {
+      "word": "preserve",
+      "start": 26.639999389648438,
+      "end": 26.639999389648438
+    },
+    {
+      "word": "Viché's",
+      "start": 26.639999389648438,
+      "end": 27.200000762939453
+    },
+    {
+      "word": "cultural",
+      "start": 27.200000762939453,
+      "end": 27.559999465942383
+    },
+    {
+      "word": "significance",
+      "start": 27.559999465942383,
+      "end": 28.139999389648438
+    },
+    {
+      "word": "continues",
+      "start": 28.139999389648438,
+      "end": 28.899999618530273
+    },
+    {
+      "word": "ensuring",
+      "start": 29.059999465942383,
+      "end": 29.65999984741211
+    },
+    {
+      "word": "that",
+      "start": 29.65999984741211,
+      "end": 29.959999084472656
+    },
+    {
+      "word": "this",
+      "start": 29.959999084472656,
+      "end": 30.15999984741211
+    },
+    {
+      "word": "ancestral",
+      "start": 30.15999984741211,
+      "end": 30.6200008392334
+    },
+    {
+      "word": "drink",
+      "start": 30.6200008392334,
+      "end": 30.940000534057617
+    },
+    {
+      "word": "remains",
+      "start": 30.940000534057617,
+      "end": 31.360000610351562
+    },
+    {
+      "word": "true",
+      "start": 31.360000610351562,
+      "end": 31.65999984741211
+    },
+    {
+      "word": "to",
+      "start": 31.65999984741211,
+      "end": 31.8799991607666
+    },
+    {
+      "word": "its",
+      "start": 31.8799991607666,
+      "end": 32.119998931884766
+    },
+    {
+      "word": "roots",
+      "start": 32.119998931884766,
+      "end": 32.31999969482422
+    }
+  ]
+}
